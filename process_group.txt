@@ -1,0 +1,19 @@
+//Tar create 20/2/2562
+function insert(){
+
+}
+
+
+//High create 29/2/63
+function create_table(){
+    
+}
+//Nes create29/2/2020
+function update(){
+
+
+}
+//jamm delete 29/02/2020
+function delete(){
+    
+}
