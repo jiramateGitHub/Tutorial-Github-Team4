@@ -11,4 +11,9 @@ sawaddee nes
 V21
 
 
+<<<<<<< HEAD
 >>>>>>> dae2e3c9e89091c253b50e0a6e59bea5f421564b
+=======
+jobbbbbbb
+
+>>>>>>> fe4f5c98b9a8983d020c83c3aaf12a7c3b7ca603
