@@ -7,3 +7,8 @@ Am 29-2-2563
 function Delete(){
 
 }
+
+tung 29-2-2563
+function update(){
+
+}
