@@ -2,3 +2,8 @@ tao 29-2-2653
 funct insert(){
     
 }
+
+tung 29-2-2563 16:01:00:00
+function update(){
+    
+}
