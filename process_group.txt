@@ -2,3 +2,8 @@
 function insert(){
 
 }
+
+//High create 29/2/63
+function create_table(){
+    
+}
