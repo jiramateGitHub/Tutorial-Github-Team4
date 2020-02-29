@@ -7,3 +7,8 @@ function insert(){
 function update(){
     
 }
+
+// JOB Create Date: 29/02/2020
+function delete(){
+    
+}
