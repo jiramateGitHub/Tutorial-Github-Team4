@@ -2,3 +2,7 @@
 function insert(){
 
 }
+//Nes create29/2/2020
+function update(){
+
+}
